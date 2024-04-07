@@ -41,14 +41,9 @@ Things I am using
 
 ## Hardware
 
-- MacBook Pro 13.3' M2
-- Microphone: Blue Yeti Nano
-- Camera: RICOH GR IIIx / Nikon Z6 II
-- Monitor: LG 27UL850-W
-- Mouse: Logitech MX Ergo
-- Light: Elgato Key Light Air
-- Chair: Herman Miller Sayl
-- Keyboard: HHKB Studio
+- MacBook Pro 13.3' M2 8GB
+- Monitor: Dell p2419 24-inch
+- Mouse: Rapoo M200 plus
 
 ## CLI
 
