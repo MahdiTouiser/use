@@ -41,7 +41,7 @@ Things I am using
 
 ## Hardware
 
-- MacBook Pro 16' M1 Max 64GB
+- MacBook Pro 13.3' M2
 - Microphone: Blue Yeti Nano
 - Camera: RICOH GR IIIx / Nikon Z6 II
 - Monitor: LG 27UL850-W
